@@ -121,16 +121,16 @@
     <value>ShareX - 歷史記錄</value>
   </data>
   <data name="btnApplyFilters.Text" xml:space="preserve">
-    <value>開始篩選</value>
+    <value>套用篩選條件</value>
   </data>
   <data name="btnRemoveFilters.Text" xml:space="preserve">
-    <value>刪除篩選</value>
+    <value>刪除篩選條件</value>
   </data>
   <data name="cbDateFilter.Text" xml:space="preserve">
     <value>日期篩選：</value>
   </data>
   <data name="cbHostFilter.Text" xml:space="preserve">
-    <value>域名篩選：</value>
+    <value>主機篩選：</value>
   </data>
   <data name="cbTypeFilter.Text" xml:space="preserve">
     <value>檔案類型篩選：</value>
@@ -151,13 +151,13 @@
     <value>到：</value>
   </data>
     <data name="chURL.Text" xml:space="preserve">
-    <value>URL</value>
+    <value>網址</value>
   </data>
   <data name="btnShowStats.Text" xml:space="preserve">
     <value>顯示統計資料</value>
   </data>
   <data name="lblURLFilter.Text" xml:space="preserve">
-    <value>URL：</value>
+    <value>網址：</value>
   </data>
   <data name="lblFilenameFilter.Text" xml:space="preserve">
     <value>檔名：</value>
