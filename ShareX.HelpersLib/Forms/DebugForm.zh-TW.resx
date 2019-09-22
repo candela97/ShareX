@@ -132,7 +132,7 @@
   <data name="lblRunningFrom.Text" xml:space="preserve">
     <value>啟動路徑：</value>
   </data>
-    <data name="btnUploadLog.Text" xml:space="preserve">
+  <data name="btnUploadLog.Text" xml:space="preserve">
     <value>上傳日誌...</value>
   </data>
 </root>
