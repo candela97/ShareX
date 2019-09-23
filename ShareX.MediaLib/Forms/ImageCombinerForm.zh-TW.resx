@@ -121,7 +121,7 @@
     <value>新增...</value>
   </data>
   <data name="btnRemove.Text" xml:space="preserve">
-    <value>刪除</value>
+    <value>移除</value>
   </data>
   <data name="btnMoveUp.Text" xml:space="preserve">
     <value>上移</value>
