@@ -133,7 +133,7 @@
     <value>圖片檔案路徑</value>
   </data>
   <data name="btnCombine.Text" xml:space="preserve">
-    <value>根據擷取後設定合併圖片並儲存或上傳</value>
+    <value>根據擷取後設定合併圖片並儲存/上傳</value>
   </data>
   <data name="lblSpace.Text" xml:space="preserve">
     <value>圖片之間的空隙：</value>
